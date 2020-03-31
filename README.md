@@ -14,7 +14,7 @@ Prepare your timesheet without a calculator and save hours every payroll period.
 Customize a face recognition. Describe your idea and we will reply within 24 hours. 
 - Website: https://gigasource.io/
 - Email: info@gigasource.io
-Related Products
+## Related Products
 - https://gigasource.io/media-slider/
 - https://gigasource.io/face-attendance/
 - https://gigasource.io/visitor-analyzer/
