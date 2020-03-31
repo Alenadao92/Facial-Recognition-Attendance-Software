@@ -12,7 +12,7 @@ Comprehensive Report
 Prepare your timesheet without a calculator and save hours every payroll period. The custom facial recognition attendance system automatically counts attendance & total work hour and identifies errors, including missed clock-ins or clock-outs. Also, you can print a daily report of attendance, and individual report of each employee.
 
 Customize a face recognition. Describe your idea and we will reply within 24 hours. 
-Website:  
+Website: https://gigasource.io/
 Email: info@gigasource.io
 Related Products
 - https://gigasource.io/media-slider/
