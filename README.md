@@ -1,5 +1,4 @@
 # Facial-Recognition-Attendance-Software
-Facial Recognition Attendance Software
 ## Fast Speed 0.2s & Up to 95% Accuracy
 ## Extreme Fast & Accurate
 Our custom facial recognition attendance system is powered by unique biometric data to make sure that staff must be physically present at the clocking station. Without any special equipment, our facial recognition solution turns a standard Android tablet/smartphone into a cost-effective clocking station.
