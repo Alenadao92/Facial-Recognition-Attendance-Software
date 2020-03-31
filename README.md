@@ -15,9 +15,9 @@ Customize a face recognition. Describe your idea and we will reply within 24 hou
 Website:  
 Email: info@gigasource.io
 Related Products
-https://gigasource.io/media-slider/
-https://gigasource.io/face-attendance/
-https://gigasource.io/visitor-analyzer/
-https://gigasource.io/pos-retail/
-https://gigasource.io/crm/
-https://gigasource.io/cloud-signage/
+- https://gigasource.io/media-slider/
+- https://gigasource.io/face-attendance/
+- https://gigasource.io/visitor-analyzer/
+- https://gigasource.io/pos-retail/
+- https://gigasource.io/crm/
+- https://gigasource.io/cloud-signage/
