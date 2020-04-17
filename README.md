@@ -7,6 +7,7 @@ Our custom [facial recognition attendance system](https://gigasource.io/face-att
 ![Face Recognition Multiple](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/Group-922.png)
 ## Cloud-Based Facial Recognition
 Giga Facial Recognition for Attendance System is cloud-based, which eliminates the concern of either hardware or software maintenance. Your data is secured, fully processed on our servers and can be easily accessed on any devices with an internet connection.
+Download [HERE](https://gigasource.io/face-attendance/)
 ## Online &Offline mode
 Offline mode
 No matter how there is an internet connection in your workplace or not, our custom facial recognition attendance system is fully functional even in offline mode. Your data will be synchronized once the device is back online.
