@@ -1,7 +1,8 @@
 # Facial-Recognition-Attendance-Software
-## Fast Speed 0.2s & Up to 95% Accuracy
+## Fast Speed 0.001s & Up to 95% Accuracy
+![Face Recognition](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/Group-919.png)
 ## Extreme Fast & Accurate
-Our custom facial recognition attendance system is powered by unique biometric data to make sure that staff must be physically present at the clocking station. Without any special equipment, our facial recognition solution turns a standard Android tablet/smartphone into a cost-effective clocking station.
+Our custom [facial recognition attendance system](https://gigasource.io/face-attendance/) is powered by unique biometric data to make sure that staff must be physically present at the clocking station. Without any special equipment, our facial recognition solution turns a standard Android tablet/smartphone into a cost-effective clocking station.
 ## Cloud-Based Facial Recognition
 Giga Facial Recognition for Attendance System is cloud-based, which eliminates the concern of either hardware or software maintenance. Your data is secured, fully processed on our servers and can be easily accessed on any devices with an internet connection.
 ## Online &
