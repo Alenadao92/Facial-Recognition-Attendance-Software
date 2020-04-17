@@ -1,5 +1,5 @@
 # Facial-Recognition-Attendance-Software
-Facial recognition attendance system with fast speed and high accuracy. We offer FREE face attendance app for download
+Facial recognition attendance system with fast speed and high accuracy. We offer [FREE face attendance app](https://gigasource.io/face-attendance/) for download
 ## Fast Speed 0.001s & Up to 95% Accuracy
 ![Face Recognition](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/Group-919.png)
 ## Extreme Fast & Accurate
