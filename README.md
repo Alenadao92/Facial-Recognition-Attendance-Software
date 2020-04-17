@@ -24,6 +24,20 @@ You can set a range of check-in limits, e.g. from 6:30 AM to 12:00 PM, and set r
 ## Free Face Attendance App
 If you are looking for face recognition mobile app or window app, here is the right place. With face recognition app, you can put an external PC with Camera on it and configure it, and you can control all the stuff easily.
 ![Face Recognition App](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/attendance-F1.png)
+## 12 Surprising Ways Facial Recognition Applied
+- Prevent Crime
+- Diagnose Diseases
+- Find Missing Person
+- Smarter Advertising
+- Protect Law Enforcement
+- Recognize Drivers
+- Recognize VIPS at Sporting Event
+- Track School Attendance
+- Track Attendance At Church
+- Control Access To Sensitive Areas
+- Recognize Customers at the hotel
+- Validate Identify At ATMS 
+
 - Website: https://gigasource.io/
 - Email: info@gigasource.io
 ## Related Products
