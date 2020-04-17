@@ -37,7 +37,7 @@ If you are looking for face recognition mobile app or window app, here is the ri
 - Control Access To Sensitive Areas
 - Recognize Customers at the hotel
 - Validate Identify At ATMS 
-
+## More Information
 - Website: https://gigasource.io/
 - Email: info@gigasource.io
 ## Related Products
