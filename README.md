@@ -18,6 +18,10 @@ Customize a face recognition. Describe your idea and we will reply within 24 hou
 ## Set a range of check-in, checkout limit
 You can set a range of check-in limits, e.g. from 6:30 AM to 12:00 PM, and set range for check out, e.g from 12:00 PM to 14:00 PM.
 ![Face Recognition Limit Time](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/Group-921.png)
+
+## Free Face Attendance App
+If you are looking for face recognition mobile app or window app, here is the right place. With face recognition app, you can put an external PC with Camera on it and configure it, and you can control all the stuff easily.
+![Face Recognition App](https://gigasource.b-cdn.net/wp-content/uploads/2020/01/attendance-F1.png)
 - Website: https://gigasource.io/
 - Email: info@gigasource.io
 ## Related Products
